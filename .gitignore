@@ -9,5 +9,3 @@
 .history/
 /__pycache__
 /.vscode
-/logs
-/graphs
