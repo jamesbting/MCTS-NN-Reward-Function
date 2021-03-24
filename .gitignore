@@ -9,3 +9,4 @@
 .history/
 src/__pycache__
 /.vscode
+/models
